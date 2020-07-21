@@ -11,3 +11,7 @@ The visualizations showing confirmed, death and recovered cases by:
   -- District wise cases
   
   -- A trend showing the monthly and daily cases.
+  
+  The dashboard is published in tableau public and below link for reference:
+  
+  https://public.tableau.com/profile/monisha.g6799#!/vizhome/Covid-19India_15950575374550/Covid-19
